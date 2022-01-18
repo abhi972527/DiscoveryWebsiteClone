@@ -4,7 +4,7 @@ export const Navbar=()=>{
     <>
      <h1>Home</h1>
      <h1>explore</h1>
-     <h1>kids</h1>
+     <h1>KIDS</h1>
     </>
  )
 }
